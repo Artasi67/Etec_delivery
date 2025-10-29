@@ -95,7 +95,8 @@ const estilos = StyleSheet.create({
         borderRadius: 8,
         fontSize: 16,
         marginBottom: 15,
-        
+        borderWidth; 1,
+        borderColor: "#dddddd"
     }
 })
 
